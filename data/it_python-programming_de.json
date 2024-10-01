@@ -1,0 +1,324 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "difficulty": 2,
+            "question": "Was für ein Datentyp ist das",
+            "img": "./src/it-programming-python/it-py-prog-1.png",
+            "answers": [
+                {
+                    "text": "array",
+                    "isCorrect": false
+                },
+                {
+                    "text": "list",
+                    "isCorrect": true
+                },
+                {
+                    "text": "tuple",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "difficulty": 1,
+            "question": "Was ist der Zweck von 'def' in Python?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Um eine Variable zu deklarieren",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um eine Funktion zu definieren",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Um eine Klasse zu erstellen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "difficulty": 2,
+            "question": "Welches der folgenden ist kein gültiger Bezeichner in Python?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "myVariable",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2ndVariable",
+                    "isCorrect": true
+                },
+                {
+                    "text": "_myVariable",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "difficulty": 3,
+            "question": "Wie kannst du eine Liste in Python umkehren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "list.reverse()",
+                    "isCorrect": true
+                },
+                {
+                    "text": "reverse(list)",
+                    "isCorrect": false
+                },
+                {
+                    "text": "list.flip()",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "difficulty": 1,
+            "question": "Was wird ausgegeben, wenn 'print(type([]))' ausgeführt wird?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "<class 'list'>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<class 'array'>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<class 'tuple'>",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "difficulty": 2,
+            "question": "Welches Schlüsselwort wird verwendet, um eine Bedingung in Python zu prüfen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "if",
+                    "isCorrect": true
+                },
+                {
+                    "text": "when",
+                    "isCorrect": false
+                },
+                {
+                    "text": "check",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "difficulty": 3,
+            "question": "Wie kannst du das letzte Element einer Liste namens 'myList' erhalten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "myList[-1]",
+                    "isCorrect": true
+                },
+                {
+                    "text": "myList.last()",
+                    "isCorrect": false
+                },
+                {
+                    "text": "myList[len(myList)]",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "difficulty": 2,
+            "question": "Was gibt die Funktion 'len()' in Python zurück?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Größe eines Objekts",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Anzahl der Elemente in einer Liste",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Länge einer Zeichenkette",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "difficulty": 1,
+            "question": "Welches Zeichen wird verwendet, um einen Kommentar in Python zu erstellen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "//",
+                    "isCorrect": false
+                },
+                {
+                    "text": "#",
+                    "isCorrect": true
+                },
+                {
+                    "text": "/* */",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "difficulty": 3,
+            "question": "Was passiert, wenn du versuchst, auf ein nicht existierendes Dictionary-Element zuzugreifen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Es gibt None zurück",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Es wird ein KeyError ausgelöst",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Es gibt eine leere Liste zurück",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "difficulty": 2,
+            "question": "Was macht 'l[::1]'?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Es ist eine Slicing-Syntax, die verwendet wird, um eine Teilmenge von Elementen aus einer Liste auszuwählen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Es entfernt die andere helfte der liste",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Es kehrt die Liste um.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "difficulty": 1,
+            "question": "Was für eine Art von Programmiersprache ist Python?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Komplilierte Programmiersprache",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Interpretierte Programmiersprache",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Assembly-Sprache",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "difficulty": 3,
+            "question": "Welches dieser Module ist kein Built-in-Modul in Python?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "math",
+                    "isCorrect": false
+                },
+                {
+                    "text": "os",
+                    "isCorrect": false
+                },
+                {
+                    "text": "requests",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "difficulty": 3,
+            "question": "Was ist der Unterschied zwischen range() und enumerate() in einer for-Schleife?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "range() gibt nur die Zahlen zurück, während enumerate() die Indizes und Werte zurückgibt.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "enumerate() wird nur für Listen verwendet, während range() für alle Iterables verwendet werden kann.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "range() gibt die Werte in aufsteigender Reihenfolge zurück, während enumerate() sie in absteigender Reihenfolge zurückgibt.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "difficulty": 2,
+            "question": "Wie definiert man eine Konstante in Python?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Indem man einen Variablenname in Großbuchstaben schreibt.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Durch Verwendung des Schlüsselworts 'const'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Indem man die Variable mit dem const() datentyp definiert",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "difficulty": 2,
+            "question": "Sie wollen ein RuntimeError herbeirufen. Wird der Fehler ausgelöst?",
+            "img": "./src/it-programming-python/it-py-prog-2.png",
+            "answers": [
+                {
+                    "text": "Ja, weil die Funktion einen RuntimeError zurückgibt, aber er wird nicht geworfen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Nein, weil die Funktion nicht direkt den Fehler auslöst.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ja, aber nur wenn die Funktion aufgerufen wird.",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3304 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "difficulty": 1,
+            "question": "Worauf muss man achten bei einem TP Kabel?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Biegeradius",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Geschwindigkeit",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schutz",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "difficulty": 1,
+            "question": "Was ist die Hauptfunktion eines DNS-Servers?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "E-Mail-Versand",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Namensauflösung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Datenbankverwaltung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "difficulty": 2,
+            "question": "Welche der folgenden Protokolle wird für sicheres Surfen im Internet verwendet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "HTTP",
+                    "isCorrect": false
+                },
+                {
+                    "text": "HTTPS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "FTP",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "difficulty": 2,
+            "question": "Welches Tool wird oft zur Überwachung von Netzwerken verwendet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Wireshark",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das Dashboard vom Router",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Speedtest",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "difficulty": 3,
+            "question": "Was ist der Zweck eines Active Directory?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Datenbankmanagement",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zentralisierte Benutzerverwaltung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Webhosting",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "difficulty": 3,
+            "question": "Was bedeutet der Begriff 'Virtualisierung'?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Erstellung virtueller Maschinen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Datenverschlüsselung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cloud-Speicherung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "difficulty": 2,
+            "question": "Welche Rolle hat ein Router im Netzwerk?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verbindet verschiedene Netzwerke",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Speichert Daten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bietet Cloud-Speicher an",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "difficulty": 2,
+            "question": "Was ist ein Firewalls Hauptaufgabe?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Schutz vor Viren",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kontrolle des Netzwerkverkehrs",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Backup von Daten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "difficulty": 3,
+            "question": "Was bezeichnet der Begriff 'Backup'?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine Sicherheitskopie von Daten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Netzwerkprotokoll",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Betriebssystem",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "difficulty": 3,
+            "question": "Welche Art von Speichermedium ist SSD?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Rotierende Festplatte",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Solid-State-Laufwerk",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Optisches Laufwerk",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "difficulty": 3,
+            "question": "Was ist der Zweck eines VPN?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verschlüsselung des Internetverkehrs",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Erhöhung der Internetgeschwindigkeit",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Backup von Daten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "difficulty": 1,
+            "question": "Was sind die Funktionen eines Firewall",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Das Speeren von Ports",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das Speeren von Webseiten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Speeren von Seltsame Netzwerkverkehren",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "difficulty": 2,
+            "question": "Was versteht man unter dem Begriff 'IP-Adresse'?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine eindeutige Kennung für Netzwerkgeräte",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Verschlüsselungsprotokoll",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Internetanbieter",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "difficulty": 3,
+            "question": "Was bedeutet RAID in der IT?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Redundant Array of Independent Disks",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Remote Access Integration Device",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Random Access Internet Data",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "difficulty": 3,
+            "question": "Welche der folgenden ist eine gängige Linux-Distribution?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ubuntu",
+                    "isCorrect": true
+                },
+                {
+                    "text": "FreeBSD",
+                    "isCorrect": false
+                },
+                {
+                    "text": "PopOS",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "difficulty": 2,
+            "question": "Wofür wird SSH hauptsächlich verwendet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Für den sicheren Fernzugriff auf Server",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Für den Datenaustausch im lokalen Netzwerk",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zur Erstellung von Datenbackups",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "difficulty": 3,
+            "question": "Welche Aufgabe hat ein DHCP-Server im Netzwerk?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Er vergibt IP-Adressen an Geräte im Netzwerk",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Er speichert Daten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er überprüft die Netzwerksicherheit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "difficulty": 2,
+            "question": "Welche der folgenden Aussagen über Netzwerksicherheit sind richtig?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Firewalls können sowohl eingehenden als auch ausgehenden Datenverkehr überwachen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Antiviren-Software schützt ausschließlich vor Malware und nicht vor Phishing-Angriffen.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein sicheres Passwort sollte aus Buchstaben, Zahlen und Sonderzeichen bestehen.",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "difficulty": 3,
+            "question": "Was sind gängige Protokolle für die Kommunikation über das Internet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "FTP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HTTP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SMTP",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "difficulty": 3,
+            "question": "Welche der folgenden Maßnahmen können zur Verbesserung der Server-Sicherheit beitragen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Regelmäßige Updates und Patches",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Verwendung von Standardpasswörtern",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Implementierung von Zwei-Faktor-Authentifizierung",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "difficulty": 2,
+            "question": "Was sind typische Aufgaben eines Systemadministrators?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Benutzerkonten verwalten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Betriebssysteme neu installieren",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das Design von Webseiten optimieren",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "difficulty": 3,
+            "question": "Welche Vorteile bietet die Nutzung von Virtualisierung in der IT?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ressourcenschonung durch Konsolidierung von Servern",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Erhöhte Hardwarekosten durch zusätzliche physische Maschinen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Flexibilität bei der Bereitstellung von IT-Ressourcen",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "difficulty": 2,
+            "question": "Welche der folgenden Aussagen über Backup-Strategien sind korrekt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Backup sollte regelmäßig und automatisiert durchgeführt werden.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Backups sind nur für wichtige Daten erforderlich.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine 3-2-1 Backup-Strategie ist effektiv, wenn 3 Kopien von Daten auf 2 verschiedenen Medien gespeichert werden, wobei 1 Kopie an einem anderen Standort aufbewahrt wird.",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "difficulty": 3,
+            "question": "Welche Faktoren beeinflussen die Netzwerkgeschwindigkeit?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Bandbreite des Internetanbieters",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Anzahl der verbundenen Geräte im Netzwerk",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Farbe des Netzwerkkabels",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "difficulty": 2,
+            "question": "Welche der folgenden Maßnahmen helfen, die Verfügbarkeit von Diensten zu gewährleisten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Implementierung von Redundanz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Vermeidung von Wartungsarbeiten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Monitoring der Server-Performance",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "difficulty": 2,
+            "question": "Welche der folgenden Komponenten sind für die Erstellung eines Netzwerks notwendig?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Router",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Switch",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Monitor",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "difficulty": 3,
+            "question": "Welche der folgenden Aussagen über Netzwerktopologien sind korrekt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Stern-Topologie ist anfällig für den Ausfall des zentralen Knotens.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "In einer Bus-Topologie wird der gesamte Datenverkehr über ein einziges Kabel geleitet.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mesh-Topologien sind kostengünstig und einfach zu implementieren.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "difficulty": 3,
+            "question": "Welche der folgenden Technologien können zur Verbesserung der Netzwerkgeschwindigkeit verwendet werden?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Load Balancing",
+                    "isCorrect": true
+                },
+                {
+                    "text": "VLANs",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Proxy-Server",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "difficulty": 2,
+            "question": "Welche der folgenden Aussagen über Verschlüsselung sind richtig?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Symmetrische Verschlüsselung verwendet einen öffentlichen und einen privaten Schlüssel.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Asymmetrische Verschlüsselung ist langsamer als symmetrische Verschlüsselung.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Verschlüsselung schützt Daten nur im Ruhezustand, nicht während der Übertragung.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "difficulty": 3,
+            "question": "Welche der folgenden Maßnahmen können zur Sicherstellung der Datenintegrität beitragen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verwendung von Hash-Algorithmen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Datenkompression vor der Speicherung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Regelmäßige Datenüberprüfungen",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "difficulty": 3,
+            "question": "Welche Arten von Angriffen können auf Netzwerke ausgeführt werden?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "DDoS-Angriffe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Man-in-the-Middle-Angriffe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SQL-Injection-Angriffe",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "difficulty": 2,
+            "question": "Welche der folgenden Faktoren können die Leistung eines Servers beeinträchtigen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Unzureichender RAM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Übermäßige CPU-Auslastung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Hohe Bandbreite",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "difficulty": 3,
+            "question": "Welche der folgenden Aussagen über Backup-Methoden sind korrekt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Inkrementelle Backups speichern nur die Änderungen seit dem letzten Backup.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Voll-Backups sind immer schneller als inkrementelle Backups.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Differenzielle Backups speichern alle Änderungen seit dem letzten Voll-Backup.",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "difficulty": 2,
+            "question": "Welche der folgenden Technologien werden oft in Cloud-Umgebungen verwendet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Containerisierung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Virtualisierung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "VPNs",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "difficulty": 2,
+            "question": "Was sind gängige Methoden zur Überwachung von Netzwerken?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "SNMP (Simple Network Management Protocol)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "NMAP (Network Mapper)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HTTP (Hypertext Transfer Protocol)",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "difficulty": 2,
+            "question": "Was ist die Hauptfunktion eines Gateways in einem Netzwerk?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verbindung verschiedener Netzwerkprotokolle",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Speicherung von Daten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Optimierung der Netzwerkgeschwindigkeit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "difficulty": 3,
+            "question": "Welche der folgenden Aussagen über Gateways sind korrekt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Gateways können Daten zwischen verschiedenen Netzwerken übertragen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Gateways sind immer Hardware-Geräte.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gateways arbeiten nur mit IP-Adressen.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "difficulty": 1,
+            "question": "In welcher Einheit wird die Bildschirmauflösung gemessen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Pixel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Zoll",
+                    "isCorrect": false
+                },
+                {
+                    "text": "DPI",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "difficulty": 2,
+            "question": "Was bedeutet die Abkürzung 'Hz' bei Monitoren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Anzahl der Bilder, die pro Sekunde angezeigt werden können.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die maximale Auflösung des Monitors.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Bildschirmdiagonale in Zoll.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "difficulty": 3,
+            "question": "Welche der folgenden sind Netzwerkdimensionen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Personal Area Network",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Car Area Network",
+                    "isCorrect": true
+                },
+                {
+                    "text": "World Area Network",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "difficulty": 3,
+            "question": "Was steht für 'AD' in der IT?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Active Directory",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Application Development",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Adverticement",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "difficulty": 2,
+            "question": "Wofür steht das Protokoll 'FTP'?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "File Transfer Protocol",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Fast Transmission Protocol",
+                    "isCorrect": false
+                },
+                {
+                    "text": "File Transmission Program",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "difficulty": 2,
+            "question": "Wofür steht das Protokoll 'HTTP'?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Hypertext Transfer Protocol",
+                    "isCorrect": true
+                },
+                {
+                    "text": "High Transfer Text Protocol",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hyper Transfer Program",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "difficulty": 3,
+            "question": "Wofür steht das Protokoll 'SMTP'?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Simple Mail Transfer Protocol",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Secure Mail Transmission Protocol",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Standard Mail Transport Protocol",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "difficulty": 3,
+            "question": "Wofür steht das Protokoll 'SNMP'?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Simple Network Management Protocol",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Secure Network Monitoring Protocol",
+                    "isCorrect": false
+                },
+                {
+                    "text": "System Network Management Protocol",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "difficulty": 3,
+            "question": "Welche der folgenden Aussagen über Firewalls sind korrekt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Firewalls können sowohl Hardware- als auch Softwarelösungen sein.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Firewalls können keine VPN-Verbindungen steuern.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Firewalls analysieren den Datenverkehr, um unerwünschte Zugriffe zu blockieren.",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "difficulty": 2,
+            "question": "Was ist der Zweck von NAT (Network Address Translation)?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Öffentliche IP-Adressen in private IP-Adressen umzuwandeln.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Private IP-Adressen in öffentliche IP-Adressen umzuwandeln.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Datenverkehr zwischen verschiedenen Netzwerken zu filtern.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "difficulty": 3,
+            "question": "Welche der folgenden sind Maßnahmen zur Netzwerksicherheit?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verwendung von Firewalls",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Regelmäßige Software-Updates",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Installation von Virenscannern",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "difficulty": 3,
+            "question": "Was sind mögliche Folgen eines DDoS-Angriffs?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Überlastung des Servers",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Datenverlust",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eingeschränkte Verfügbarkeit von Diensten",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "difficulty": 3,
+            "question": "Welche der folgenden Aussagen über IP-Adressen sind korrekt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine IP-Adresse identifiziert eindeutig ein Gerät im Netzwerk.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "IP-Adressen können dynamisch oder statisch sein.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine IP-Adresse ist immer in der Form einer MAC-Adresse.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "difficulty": 2,
+            "question": "Was ist die Funktion von DHCP (Dynamic Host Configuration Protocol)?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verteilung von IP-Adressen an Geräte im Netzwerk.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Überwachung des Netzwerkverkehrs.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Erstellung von Backups von Netzwerkdaten.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "difficulty": 3,
+            "question": "Was ist die maximale Anzahl von Hosts, die in einem IPv4-Netzwerk mit einer Subnetzmaske von /24 unterstützt werden können?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "254",
+                    "isCorrect": true
+                },
+                {
+                    "text": "256",
+                    "isCorrect": false
+                },
+                {
+                    "text": "128",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "difficulty": 3,
+            "question": "Welche der folgenden Adressen ist eine private IPv4-Adresse?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "192.168.1.1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "172.16.0.1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "8.8.8.8",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "difficulty": 2,
+            "question": "Was ist der Hauptvorteil von IPv6 im Vergleich zu IPv4?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Erhöhte Anzahl verfügbarer IP-Adressen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Schnellere Internetgeschwindigkeit.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bessere Sicherheitseinstellungen.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "difficulty": 2,
+            "question": "Welche Funktion hat NAT (Network Address Translation)?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Konvertiert private IP-Adressen in öffentliche IP-Adressen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Erstellt eine sichere Verbindung zu einem Remote-Server.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Überwacht den Netzwerkverkehr.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "difficulty": 3,
+            "question": "Was ist der Zweck von Subnetting?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Effiziente Nutzung der IP-Adresse und Verbesserung der Netzwerksicherheit.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Erhöhung der Internetgeschwindigkeit.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vereinfachung der Netzwerkhardware.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "difficulty": 2,
+            "question": "Welche der folgenden Aussagen über DHCP sind korrekt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "DHCP kann die IP-Adressen für ein Netzwerk automatisch zuweisen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "DHCP benötigt keine manuelle Konfiguration.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "DHCP kann nur für IPv6-Adressen verwendet werden.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "difficulty": 2,
+            "question": "Was beschreibt der Begriff 'Latenz' in einem Netzwerk?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Verzögerung bei der Datenübertragung.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Menge an Daten, die pro Zeiteinheit übertragen werden können.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die maximale Bandbreite des Netzwerks.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "difficulty": 3,
+            "question": "Was ist die Funktion eines Proxy-Servers?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Versteckt die IP-Adresse des Clients und filtert Anfragen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Speichert Daten lokal zur schnelleren Verarbeitung.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Verbindet verschiedene Netzwerke miteinander.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "difficulty": 3,
+            "question": "Welche der folgenden Protokolle wird häufig für das sichere Versenden von E-Mails verwendet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "SMTP über SSL/TLS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "IMAP",
+                    "isCorrect": false
+                },
+                {
+                    "text": "POP3",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "difficulty": 2,
+            "question": "Was sind gängige Methoden zur Sicherung von Netzwerkdaten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verschlüsselung von Datenübertragungen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Verwendung von Firewalls",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Speichern von Daten nur lokal ohne Backup.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "difficulty": 3,
+            "question": "Was ist eine gültige private IPv4-Adresse im Bereich von 10.0.0.0 bis 10.255.255.255?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "10.0.0.10",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10.255.255.255",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10.1.1.256",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "difficulty": 3,
+            "question": "Welche der folgenden IP-Adressen ist nicht Teil des privaten IPv4-Adressraums?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "192.168.0.1",
+                    "isCorrect": false
+                },
+                {
+                    "text": "172.31.255.255",
+                    "isCorrect": false
+                },
+                {
+                    "text": "203.0.113.1",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "difficulty": 2,
+            "question": "Was ist der Hauptzweck des privaten IPv4-Adressraums?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Um Geräte innerhalb eines privaten Netzwerks zu identifizieren.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Um Internetzugang zu ermöglichen.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um öffentliche IP-Adressen zu sparen.",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "difficulty": 3,
+            "question": "Welche der folgenden IP-Adressbereiche sind als private Adressen definiert?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "192.168.0.0 bis 192.168.255.255",
+                    "isCorrect": true
+                },
+                {
+                    "text": "172.16.0.0 bis 172.31.255.255",
+                    "isCorrect": true
+                },
+                {
+                    "text": "198.51.100.0 bis 198.51.100.255",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "difficulty": 3,
+            "question": "Was sind die möglichen Vorteile der Verwendung von NAT (Network Address Translation) in Kombination mit privaten IP-Adressen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Erhöhung der Netzwerksicherheit.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ermöglichung der Verwendung unbegrenzter öffentlicher IP-Adressen.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vereinfachung des IP-Managements.",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "difficulty": 3,
+            "question": "Welche der folgenden Aussagen über IPv6-Adressen sind korrekt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "IPv6-Adressen sind 128 Bit lang.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "IPv6-Adressen können in der Form von 32-Bit-Dezimalzahlen dargestellt werden.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "IPv6 verwendet Doppelpunkte zur Trennung von 16-Bit-Blöcken.",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "difficulty": 2,
+            "question": "Was ist der Hauptvorteil von IPv6 im Vergleich zu IPv4?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Größerer Adressraum für mehr Geräte.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Weniger Komplexität in der Netzwerkverwaltung.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Verbesserte Sicherheitsfunktionen.",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "difficulty": 2,
+            "question": "Welche der folgenden Windows-Versionen unterstützt die BitLocker-Laufwerkverschlüsselung?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Windows 7 Professional",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Windows Vista Home",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Windows 8 Enterprise",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "difficulty": 2,
+            "question": "Was ist die Funktion des Windows Taskmanagers?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Überwachung der Systemressourcennutzung.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Erstellung von Systembackups.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Verwalten von Benutzerkonten.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "difficulty": 3,
+            "question": "Welche der folgenden Dateien sind kritische Systemdateien in Windows?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "ntoskrnl.exe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "kernel32.dll",
+                    "isCorrect": true
+                },
+                {
+                    "text": "notepad.exe",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "difficulty": 3,
+            "question": "Was sind die Hauptmerkmale der Intel Core i7-Prozessoren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Hyper-Threading-Technologie",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Unterstützung für bis zu 64 GB RAM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Keine integrierte Grafikeinheit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "difficulty": 3,
+            "question": "Welches der folgenden Features ist für Intel Prozessoren typisch?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Turbo Boost-Technologie",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Extreme Edition-Modelle sind immer günstiger als Standard-Modelle.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dual-Core-Architektur ist die einzige verfügbare Option.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "difficulty": 2,
+            "question": "Was kann statische Elektrizität im Zusammenhang mit Computerkomponenten verursachen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Kurzschlüsse und Beschädigungen von empfindlichen Bauteilen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Erhöhung der Datenübertragungsrate.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Verbesserte Leistung der Hardware.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "difficulty": 2,
+            "question": "Wie kann man sich vor Schäden durch statische Elektrizität schützen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Durch das Tragen eines antistatischen Armbands.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Durch das Berühren von Holzgegenständen, bevor man die Hardware berührt.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Durch die Verwendung von Plastikwerkzeugen.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "difficulty": 2,
+            "question": "Was ist die Hauptfunktion eines DNS-Servers?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Übersetzung von Domainnamen in IP-Adressen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Bereitstellung von Webhosting-Diensten.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Speichern von Benutzerdaten.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "difficulty": 3,
+            "question": "Welche der folgenden Aussagen über DNS sind korrekt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "DNS ist hierarchisch aufgebaut.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Jede Domain hat genau einen DNS-Server.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "DNS kann auch für die Zuweisung von E-Mail-Adressen verwendet werden.",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "difficulty": 2,
+            "question": "Was ist ein Fully Qualified Domain Name (FQDN)?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ein vollständiger Name, der einen Host eindeutig in einer Domain identifiziert.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Name, der nur den Hostteil ohne Domain umfasst.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Name, der für temporäre Webseiten verwendet wird.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "difficulty": 2,
+            "question": "Wie wird ein FQDN strukturiert?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Es besteht aus dem Hostnamen und der Domäne, getrennt durch einen Punkt.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Es enthält keine Punkte, sondern nur Bindestriche.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Es beginnt immer mit 'www'.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "difficulty": 3,
+            "question": "Was bedeutet der Suffix '.com' in einem FQDN?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Es handelt sich um eine kommerzielle Domain.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Es steht für eine geografische Region.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Es zeigt an, dass die Domain von einer Behörde registriert wurde.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "difficulty": 2,
+            "question": "Wie kann man Phishing erkennen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Überprüfen Sie die URL auf verdächtige Zeichen oder Schreibfehler.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ignorieren Sie E-Mails von unbekannten Absendern.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sofortige Eingabe persönlicher Daten auf jeder Webseite.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "difficulty": 3,
+            "question": "Welche Merkmale können auf eine Phishing-Nachricht hinweisen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Dringliche Aufforderungen zur sofortigen Aktion.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Professionelles Design und korrekte Grammatik.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Persönliche Anrede mit dem vollen Namen.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "difficulty": 2,
+            "question": "Welches dieser Betriebssysteme existiert nicht?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Windows XP SP4",
+                    "isCorrect": true
+                },
+                {
+                    "text": "macOS Monterey",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ubuntu 20.04",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "difficulty": 3,
+            "question": "Welche RAID-Stufe bietet sowohl Redundanz als auch verbesserte Lese- und Schreibleistung?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "RAID 0",
+                    "isCorrect": false
+                },
+                {
+                    "text": "RAID 1",
+                    "isCorrect": false
+                },
+                {
+                    "text": "RAID 5",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "difficulty": 3,
+            "question": "Welcher Nachteil besteht bei RAID 0?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Geringe Speicherplatznutzung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Keine Redundanz, Datenverlust bei einem Ausfall eines Laufwerks",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Hohe Kosten für Hardware",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "difficulty": 2,
+            "question": "Was ist ein häufiges Merkmal von RAID 1?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Daten werden auf mindestens zwei Laufwerken gespiegelt.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Daten werden in Blöcke aufgeteilt und verteilt.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Erfordert mindestens fünf Laufwerke.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "difficulty": 3,
+            "question": "In welcher RAID-Stufe wird Paritätsinformation zur Wiederherstellung von Daten verwendet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "RAID 0",
+                    "isCorrect": false
+                },
+                {
+                    "text": "RAID 1",
+                    "isCorrect": false
+                },
+                {
+                    "text": "RAID 6",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "difficulty": 2,
+            "question": "Welche RAID-Stufe eignet sich am besten für Datenbankanwendungen, die eine hohe Schreib- und Leseleistung erfordern?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "RAID 5",
+                    "isCorrect": false
+                },
+                {
+                    "text": "RAID 10",
+                    "isCorrect": true
+                },
+                {
+                    "text": "RAID 0",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "difficulty": 1,
+            "question": "Für was steht CPU?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Central Processing Unit",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Computing Processing Unit",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Computer Processing Unit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "difficulty": 1,
+            "question": "Für was steht RAM?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Random Access Memory",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Read And Memorize",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Read Access Module",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "difficulty": 2,
+            "question": "Für was steht SDRAM?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Synchronous Dynamic Random Access Memory",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Single Data Random Access Memory",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Systematic Data Random Access Memory",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "difficulty": 2,
+            "question": "Für was steht DDR?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Double Data Rate",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dynamic Data Relay",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dual Data Registry",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "difficulty": 2,
+            "question": "Für was steht GPU?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Graphics Processing Unit",
+                    "isCorrect": true
+                },
+                {
+                    "text": "General Processing Unit",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Graphical Power Unit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "difficulty": 2,
+            "question": "Für was steht PSU?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Power Supply Unit",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Processing System Unit",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Primary Supply Unit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "difficulty": 2,
+            "question": "Für was steht AIO (All-In-One)?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "All-In-One Cooling System",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Advanced Input/Output",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Artificial Intelligence Overdrive",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "difficulty": 3,
+            "question": "Welche Formfaktoren sind häufig für Mainboards im Desktop-Bereich?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "ATX",
+                    "isCorrect": true
+                },
+                {
+                    "text": "LPX",
+                    "isCorrect": true
+                },
+                {
+                    "text": "S-ATX",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "difficulty": 2,
+            "question": "Was bezeichnet der Begriff BIOS in der Computertechnik?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Basic Integrated Operating System",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Basic Input/Output System",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Binary Input/Output System",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "difficulty": 2,
+            "question": "Welcher RAM-Typ ist in Laptops am häufigsten anzutreffen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "SODIMM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "DIMM",
+                    "isCorrect": false
+                },
+                {
+                    "text": "UDIMM",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "difficulty": 2,
+            "question": "Welcher RAM-Formfaktor wird in den meisten Desktop-PCs verwendet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "DIMM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SODIMM",
+                    "isCorrect": false
+                },
+                {
+                    "text": "FBDIMM",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "difficulty": 3,
+            "question": "Was charakterisiert GDDR6?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Datenübertragungsrate von 16 Gbps",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Nutzung von HBM-Technologie",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Optimierung für Spielekonsolen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "difficulty": 3,
+            "question": "Wie unterscheidet sich GDDR6X von GDDR6?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verwendung von PAM4 für höhere Bandbreite",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Bessere Energieeffizienz bei niedrigen Frequenzen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Niedrigere Temperaturentwicklung unter Last",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "difficulty": 2,
+            "question": "Welche Schnittstellen sind für die Bildausgabe am gängigsten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "DisplayPort",
+                    "isCorrect": true
+                },
+                {
+                    "text": "VGA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SCSI",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "difficulty": 3,
+            "question": "Was bedeutet der Begriff \"Port\" in der Netzwerkkommunikation?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ein logischer Zugangspunkt für Protokolle",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein physischer Stecker an einem Gerät",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Typ von Netzwerkgerät",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "difficulty": 3,
+            "question": "Was sind Vorteile von NVMe-SSDs gegenüber SATA-SSDs?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Höhere Datenübertragungsraten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Geringerer Stromverbrauch",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Geringere Latenzzeiten",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "difficulty": 3,
+            "question": "Welche PCIe-Version bietet die höchste Bandbreite pro Lane?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "PCIe 4.0",
+                    "isCorrect": false
+                },
+                {
+                    "text": "PCIe 3.0",
+                    "isCorrect": false
+                },
+                {
+                    "text": "PCIe 5.0",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "difficulty": 2,
+            "question": "Welche Funktionen sollte ein qualitativ hochwertiges Netzteil (PSU) bieten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Modularität für Kabelmanagement",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Überstromschutz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kein Lüfter für geräuschlosen Betrieb",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "difficulty": 3,
+            "question": "Welches OSI-Schicht ist verantwortlich für die Datenübertragung zwischen direkt verbundenen Geräten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Sitzungsschicht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Transport-Schicht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sicherungsschicht",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "difficulty": 3,
+            "question": "Welche der folgenden Protokolle operieren auf der Transportschicht des OSI-Modells?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "TCP und UDP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HTTP und FTP",
+                    "isCorrect": false
+                },
+                {
+                    "text": "IP und ICMP",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "difficulty": 2,
+            "question": "Welche Aufgabe hat die Anwendungsschicht im OSI-Modell?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Schnittstelle für Benutzeranwendungen bereitzustellen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Fehlererkennung und -korrektur zu implementieren",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Datenpakete zu routen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "difficulty": 2,
+            "question": "Was wird in der Sitzungsschicht des OSI-Modells behandelt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verwaltung von Verbindungen zwischen Anwendungen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sicherung von Datenintegrität",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Datenpaketweiterleitung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "difficulty": 3,
+            "question": "Welche Schicht des OSI-Modells sorgt für die Logische Adressierung von Geräten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Netzwerkschicht",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Transport-Schicht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sicherungsschicht",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "difficulty": 3,
+            "question": "Was bedeutet das Recht auf Vergessenwerden unter der DSGVO?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Personen können die Löschung ihrer Daten verlangen, wenn sie nicht mehr benötigt werden.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Unternehmen dürfen personenbezogene Daten unbegrenzt speichern.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Benutzer können ihre Daten jederzeit an Dritte weitergeben.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "difficulty": 3,
+            "question": "Welche der folgenden Maßnahmen sind erforderlich, um die Datenschutzanforderungen der DSGVO zu erfüllen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Durchführung von Datenschutz-Folgenabschätzungen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Daten nur für 6 Monate speichern",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sicherstellung einer transparenten Datenverarbeitung",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "difficulty": 2,
+            "question": "Welches dieser Rechte haben betroffene Personen gemäß der DSGVO?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Recht auf Datenübertragbarkeit",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Recht auf unbegrenzte Speicherung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Recht auf Erhöhung der Datenmenge",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "difficulty": 2,
+            "question": "Was ist die Hauptaufgabe eines Datenschutzbeauftragten (DSB) gemäß der DSGVO?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Überwachung der Einhaltung der Datenschutzbestimmungen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Erstellung von Marketingstrategien",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Verwaltung der IT-Infrastruktur",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "difficulty": 2,
+            "question": "Wann ist eine Datenschutz-Folgenabschätzung erforderlich?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Bei der Verarbeitung von Daten mit hohem Risiko",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Bei jeder Datenverarbeitung unabhängig vom Risiko",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nur wenn Daten für Marketingzwecke verwendet werden",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "difficulty": 3,
+            "question": "Was regelt das BDSG in Bezug auf die Verarbeitung personenbezogener Daten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die allgemeinen Regeln zum Datenschutz in Deutschland",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Vorschriften für die Nutzung öffentlicher Verkehrsmittel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Kosten für die Datenverarbeitung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "difficulty": 3,
+            "question": "Welches dieser Prinzipien ist im BDSG verankert?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Datenminimierung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Datenanreicherung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Datenmonopolisierung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "difficulty": 2,
+            "question": "Welches Recht haben betroffene Personen laut BDSG in Bezug auf ihre Daten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Recht auf Auskunft über die gespeicherten Daten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Recht auf Vermietung ihrer Daten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Recht auf öffentliche Bekanntmachung ihrer Daten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "difficulty": 2,
+            "question": "Wie wird die Datenverarbeitung in Unternehmen laut BDSG geregelt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Durch klare interne Richtlinien und Verfahren",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Durch die Erhöhung der Speicherkapazität",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Durch den Verkauf von Nutzerdaten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "difficulty": 2,
+            "question": "Was ist das Ziel des BDSG?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Schutz der persönlichen Daten und Privatsphäre der Bürger",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Erhöhung der Datenspeicherkapazität in Unternehmen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Förderung der Datenmonopolisierung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "difficulty": 3,
+            "question": "Welches Protokoll wird vom 'ping'-Befehl verwendet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "ICMP (Internet Control Message Protocol)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "TCP (Transmission Control Protocol)",
+                    "isCorrect": false
+                },
+                {
+                    "text": "UDP (User Datagram Protocol)",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "difficulty": 3,
+            "question": "Was beschreibt der 'tracert'-Befehl in Windows?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Route, die Datenpakete zu einem Ziel nehmen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Bandbreite der Netzwerkverbindung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die IP-Adresse des lokalen Hosts",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "difficulty": 2,
+            "question": "Welche Windows-Funktion wird verwendet, um eine Datei oder einen Ordner zu suchen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Windows Explorer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Task-Manager",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ereignisanzeige",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "difficulty": 3,
+            "question": "Was bewirkt der Befehl 'ipconfig' in der Eingabeaufforderung?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Zeigt die Netzwerkkonfiguration an",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ändert die IP-Adresse",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Löscht temporäre Dateien",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "difficulty": 2,
+            "question": "Welche Funktion hat der Windows Gerätemanager?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verwalten und Überprüfen von Hardwaregeräten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Erstellen von Backups",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Verwalten von Benutzerkonten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "difficulty": 2,
+            "question": "Was passiert, wenn Sie eine Datei mit der Endung '.bat' ausführen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ein Batch-Skript wird ausgeführt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Bilddatei wird geöffnet",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Datenbank wird geöffnet",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "difficulty": 3,
+            "question": "Welches Windows-Dienstprogramm kann verwendet werden, um Systemdateien zu überprüfen und zu reparieren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "SFC (System File Checker)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Task-Manager",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Regedit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "difficulty": 2,
+            "question": "Welches der folgenden Dateiformate ist spezifisch für Microsoft Word?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": ".docx",
+                    "isCorrect": true
+                },
+                {
+                    "text": ".xlsx",
+                    "isCorrect": false
+                },
+                {
+                    "text": ".pptx",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "difficulty": 3,
+            "question": "Was ist der Unterschied zwischen relationalen und nicht-relationalen Datenbanken? Geben Sie Beispiele für beide Typen.",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Relationale Datenbanken verwenden Tabellen zur Organisation von Daten.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Nicht-relationale Datenbanken speichern Daten in flexiblen Formaten wie JSON.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Beide Typen sind identisch in ihrer Funktionsweise.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 130,
+            "difficulty": 3,
+            "question": "Nennen Sie die Hauptkomponenten eines Computersystems und deren Funktionen. Was sind die Anforderungen an einen Server im Vergleich zu einem normalen Desktop-PC?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "CPU, RAM, und Speicher sind Hauptkomponenten eines Computersystems.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Server benötigen in der Regel mehr RAM und schnellere Prozessoren als Desktop-PCs.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Desktops benötigen eine dedizierte Grafikkarte, während Server keine benötigen.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 131,
+            "difficulty": 3,
+            "question": "Was sind die Hauptunterschiede zwischen Windows- und Linux-Betriebssystemen in Bezug auf Benutzerverwaltung und Dateisystem?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Windows verwendet ein grafisches Benutzeroberflächenmodell für die Benutzerverwaltung.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Linux ermöglicht eine feinere Kontrolle über Benutzerrechte durch das Dateisystem.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Beide Systeme verwenden das gleiche Dateisystem.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 132,
+            "difficulty": 3,
+            "question": "Erklären Sie den Unterschied zwischen TCP und UDP. In welchen Szenarien würden Sie welches Protokoll verwenden?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "TCP ist verbindungsorientiert und garantiert die zuverlässige Zustellung von Daten in der richtigen Reihenfolge, was es ideal für Anwendungen wie Web-Browsing und E-Mail macht, während UDP verbindungslos ist und schnelle Übertragungen ohne Garantie für die Reihenfolge oder Zustellung bietet, was es besser für Echtzeitanwendungen wie VoIP und Online-Spiele macht.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Beide Protokolle sind gleichwertig in Bezug auf Geschwindigkeit; TCP wird jedoch bevorzugt für alle Arten von Datenübertragungen verwendet, während UDP nur für Streaming-Anwendungen geeignet ist.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "TCP ermöglicht eine schnellere Datenübertragung, da es weniger Overhead hat, während UDP eine langsame, aber zuverlässige Verbindung bietet, die für alle Arten von Anwendungen geeignet ist.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "difficulty": 3,
+            "question": "Welche der folgenden Schichten gehört zum OSI-Modell?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Anwendungs-Schicht",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Transport-Schicht",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Anwendungskomponenten-Schicht",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 134,
+            "difficulty": 3,
+            "question": "Was beschreibt die Begrifflichkeit „Bandbreite“ im Netzwerk?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die maximale Datenmenge, die über eine Verbindung übertragen werden kann",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Anzahl der Benutzer, die gleichzeitig auf ein Netzwerk zugreifen können",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Zeit, die benötigt wird, um Daten zu senden",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "difficulty": 3,
+            "question": "Welches der folgenden Protokolle wird hauptsächlich für die E-Mail-Übertragung verwendet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "FTP",
+                    "isCorrect": false
+                },
+                {
+                    "text": "SMTP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HTTP",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 136,
+            "difficulty": 3,
+            "question": "Welche Aussage beschreibt Virtualisierung am besten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Ausführung von mehreren Betriebssystemen auf einer physischen Maschine",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Erhöhung der Hardwareleistung durch zusätzliche Komponenten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Verwendung von Cloud-Diensten zur Datenspeicherung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 137,
+            "difficulty": 3,
+            "question": "Welches der folgenden ist ein Beispiel für ein nicht-relationales Datenbankmanagementsystem (DBMS)?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "MySQL",
+                    "isCorrect": false
+                },
+                {
+                    "text": "MongoDB",
+                    "isCorrect": true
+                },
+                {
+                    "text": "PostgreSQL",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 138,
+            "difficulty": 3,
+            "question": "Welche Sicherheitsmaßnahme schützt am besten vor unautorisiertem Zugriff auf ein Netzwerk?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Firewall",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Antivirus-Software",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Backup-Strategie",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 139,
+            "difficulty": 3,
+            "question": "Welche der folgenden Aussagen trifft auf das TCP/IP-Modell zu?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Es besteht aus sieben Schichten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Es ist ein Standardprotokoll für das Internet",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Es hat keine Transport-Schicht",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 140,
+            "difficulty": 3,
+            "question": "Was ist der Hauptvorteil von Cloud-Computing?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Geringere Hardwarekosten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Höhere Energiekosten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Lokale Datenverarbeitung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 141,
+            "difficulty": 3,
+            "question": "Welche Komponente ist für die Durchführung von Berechnungen in einem Computer verantwortlich?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "RAM",
+                    "isCorrect": false
+                },
+                {
+                    "text": "CPU",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HDD",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 142,
+            "difficulty": 3,
+            "question": "Was ist ein „Switch“ in einem Computernetzwerk?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ein Gerät, das Daten zwischen verschiedenen Netzwerken überträgt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Gerät, das Daten innerhalb eines lokalen Netzwerks weiterleitet",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Gerät, das die Internetgeschwindigkeit erhöht",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 143,
+            "difficulty": 2,
+            "question": "Wie viele Platten dürfen im RAID 3 ausfallen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "1 Platte",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2 Platten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Keine Platten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 144,
+            "difficulty": 2,
+            "question": "Wie viele Platten dürfen im RAID 4 ausfallen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "1 Platte",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2 Platten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Keine Platten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 145,
+            "difficulty": 2,
+            "question": "Wie viele Platten dürfen im RAID 5 ausfallen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "1 Platte",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2 Platten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "3 Platten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 146,
+            "difficulty": 2,
+            "question": "Wie viele Platten dürfen im RAID 6 ausfallen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "2 Platten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "3 Platten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1 Platte",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 147,
+            "difficulty": 2,
+            "question": "Wie viele Platten dürfen im RAID 7 ausfallen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "3 Platten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1 Platte",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Unbekannt, da RAID 7 proprietär ist",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 148,
+            "difficulty": 2,
+            "question": "Wie viele Platten dürfen im RAID 1 ausfallen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "1 Platte",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2 Platten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Keine Platten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 149,
+            "difficulty": 2,
+            "question": "Wie viele Platten dürfen im RAID 10 ausfallen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "2 Platten (wenn sie von unterschiedlichen Spiegeldisks sind)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "4 Platten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1 Platte",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 150,
+            "difficulty": 2,
+            "question": "Wie viele Platten dürfen im RAID 6HS ausfallen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "2 Platten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1 Platte",
+                    "isCorrect": false
+                },
+                {
+                    "text": "3 Platten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 151,
+            "difficulty": 2,
+            "question": "Wie viele Platten dürfen im RAID 6HS ausfallen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "2 Platten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1 Platte",
+                    "isCorrect": false
+                },
+                {
+                    "text": "3 Platten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 152,
+            "difficulty": 2,
+            "question": "Ein RAID 5 aus 4 x 2TB HDD, wie viel Speicher kann man verwenden?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "6TB",
+                    "isCorrect": true
+                },
+                {
+                    "text": "8TB",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4TB",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 153,
+            "difficulty": 2,
+            "question": "Was ist RAID 3?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "RAID 3 verwendet eine dedizierte Paritätsplatte zur Sicherung der Daten.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "RAID 3 ermöglicht keinen gleichzeitigen Zugriff auf mehrere Platten.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "RAID 3 ist optimal für Schreibvorgänge mit hoher Geschwindigkeit.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 154,
+            "difficulty": 2,
+            "question": "Was ist RAID 4?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "RAID 4 nutzt ebenfalls eine dedizierte Paritätsplatte, aber unterstützt parallele Lesevorgänge.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "RAID 4 verwendet alle Platten gleichmäßig für Daten und Parität.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "RAID 4 ist nicht für hochverfügbare Systeme geeignet.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 155,
+            "difficulty": 2,
+            "question": "Was ist RAID 5?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "RAID 5 verteilt die Paritätsdaten über alle Platten im Array.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "RAID 5 kann den Ausfall von bis zu 3 Platten tolerieren.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "RAID 5 bietet keine Verbesserung der Leseleistung.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 156,
+            "difficulty": 2,
+            "question": "Was ist RAID 6?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "RAID 6 kann den Ausfall von bis zu 2 Platten tolerieren und verwendet doppelte Parität.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "RAID 6 ist nur für lesende Anwendungen geeignet.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "RAID 6 hat keine Vorteile gegenüber RAID 5.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 157,
+            "difficulty": 2,
+            "question": "Was ist RAID 7?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "RAID 7 ist ein proprietäres RAID-Level, das eine hohe Leistung und Verfügbarkeit bietet.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "RAID 7 ist identisch mit RAID 6, aber ohne Parität.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "RAID 7 unterstützt nur eine Festplatte pro Array.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 158,
+            "difficulty": 2,
+            "question": "Was ist Open Source?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Software, deren Quellcode für jeden zugänglich und bearbeitbar ist.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Software, die ausschließlich kostenpflichtig verfügbar ist.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Software, die nur von großen Unternehmen entwickelt werden darf.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 159,
+            "difficulty": 2,
+            "question": "Mit welchem Linux-Befehl listet man Dinge auf?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "ls",
+                    "isCorrect": true
+                },
+                {
+                    "text": "list",
+                    "isCorrect": false
+                },
+                {
+                    "text": "dir",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 160,
+            "difficulty": 2,
+            "question": "Was macht der grep-Befehl?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Durchsucht Dateien nach einem bestimmten Textmuster.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kopiert Dateien von einem Ort zum anderen.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ändert die Dateiberechtigungen.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 161,
+            "difficulty": 2,
+            "question": "Was ist das GVS-Prinzip (Großvater-Vater-Sohn-Backup)?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine Backup-Strategie, die mehrere Backup-Ebenen verwendet, um Datenverlust zu vermeiden.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Verfahren zur täglichen Sicherung von Daten in der Cloud.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Methode zur Sicherung von Daten nur auf externen Festplatten.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 162,
+            "difficulty": 3,
+            "question": "Welche der folgenden Windows-Prozesse ist nicht für das System wichtig?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Dwm.exe",
+                    "isCorrect": false
+                },
+                {
+                    "text": "services.exe",
+                    "isCorrect": false
+                },
+                {
+                    "text": "taskeng.exe",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 163,
+            "difficulty": 1,
+            "question": "Was ist die IP-Adresse vom Localhost?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "127.0.0.1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "192.168.1.1",
+                    "isCorrect": false
+                },
+                {
+                    "text": "128.0.0.1",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 164,
+            "difficulty": 2,
+            "question": "Was bedeutet \"CAD\"?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Computer-Aided Design",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Computer-Animated Development",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Controlled Application Deployment",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

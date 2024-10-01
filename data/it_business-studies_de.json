@@ -1,0 +1,144 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "difficulty": 2,
+            "question": "Welche Phasen durchläuft ein typisches Projekt im Projektmanagement?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Initiierung, Planung, Durchführung, Abschluss",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Planung, Implementierung, Wartung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Konzeption, Entwurf, Entwicklung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "difficulty": 3,
+            "question": "Was versteht man unter dem Begriff „Return on Investment (ROI)“ und wie wird er berechnet?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Der ROI ist eine Kennzahl zur Bewertung der Rentabilität einer Investition und wird berechnet durch: (Gewinn - Investitionskosten) / Investitionskosten.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der ROI ist der Betrag, den man für die Investition erhält, ohne Kosten zu berücksichtigen.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der ROI ist die Anzahl der verkauften Produkte geteilt durch die Produktionskosten.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "difficulty": 2,
+            "question": "Was sind die wichtigsten Aufgaben eines IT-Controllings?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Budgetierung, Überwachung der IT-Kosten, Performance-Messung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Entwicklung von Software, Hardware-Wartung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schulung der Mitarbeiter im IT-Bereich",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "difficulty": 3,
+            "question": "Wie kann ein Unternehmen die Kosten für ein IT-Projekt schätzen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Durch Analyse von vergleichbaren Projekten und Schätzung der Ressourcen, die benötigt werden.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Indem man einfach einen bestimmten Prozentsatz der geplanten Umsatzsteigerung ansetzt.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Durch zufällige Auswahl von Budgetbeträgen aus einer Liste.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "difficulty": 2,
+            "question": "Was sind die Grundzüge der agilen Projektmethoden?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Iterative Entwicklung, Kundenfeedback, Anpassungsfähigkeit an Veränderungen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Strikte Planverfolgung, Dokumentation, festgelegte Prozesse.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einmalige Planung und Durchführung ohne Anpassungen.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "difficulty": 2,
+            "question": "Welche Bedeutung haben Informationssysteme für die Entscheidungsfindung in Unternehmen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Sie bieten relevante Daten und Analysen, die die Entscheidungsfindung unterstützen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sie ersetzen die Notwendigkeit von menschlichen Entscheidungen vollständig.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie sind nur für die Buchhaltung von Bedeutung.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "difficulty": 3,
+            "question": "Erklären Sie den Begriff „Stakeholder“ und nennen Sie verschiedene Arten von Stakeholdern im Kontext eines IT-Projekts.",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Stakeholder sind Personen oder Gruppen, die ein Interesse am Erfolg eines Projekts haben, z.B. Kunden, Mitarbeiter, Investoren.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Stakeholder sind nur die Projektmanager und Teammitglieder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stakeholder sind externe Berater, die keine direkte Verbindung zum Projekt haben.",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

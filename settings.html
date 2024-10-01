@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="module" src="./reset.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+</head>
+<body>
+    <header class="header-center">
+        <img src="./src/EduEliteLogo.PNG" alt="EduElite" class="piclogo">
+    </header>
+
+    <div class="settingsContainer">
+        <p class="settingsSection">Profil</p>
+        <a href="./settings/profile.html" class="settingsChoice">Karriere</a>
+        <p class="settingsSection">Einstellungen</p>
+        <a href="#" class="settingsChoice" id="settings-reset-progress">Lernfortschritt Zürucksetzen</a>
+        <p class="settingsSection">Über Uns</p>
+        <a href="https://copy05.github.io/Portfolio" class="settingsChoice">Über den Entwickler Copy05</a>
+        <a href="" class="settingsChoice">GitHub</a>
+        <a href="" class="settingsChoice">Feedback</a>
+        <p class="settingsText">Version v0.1.0</p>
+    </div>
+
+    <div id="confirmationModal" class="modal">
+        <div class="modal-content">
+            <p class="modal-text">Möchten Sie wirklich Ihren Lernfortschritt zurücksetzen?</p>
+            <div class="centre">
+                <button id="confirm-reset" class="modal-button">Ja</button>
+                <button id="cancel-reset" class="modal-button">Nein</button>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="bottomNavigation">
+        <div class="bnav-tab">
+            <a href="./index.html" class="bnav-href">
+                <p class="bnav-tab-icon"><span class="material-symbols-outlined">home</span></p>
+                <p class="bnav-tab-text">Home</p>
+            </a>
+        </div>
+        <div class="bnav-tab">
+            <a href="#" class="bnav-href bnav-selected">
+                <p class="bnav-tab-icon"><span class="material-symbols-outlined">settings</span></p>
+                <p class="bnav-tab-text">Settings</p>
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>

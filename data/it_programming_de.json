@@ -1,0 +1,424 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "difficulty": 2,
+            "question": "Was ist ein Framework in der Anwendungsentwicklung?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ein Satz von Bibliotheken zur Unterstützung der Softwareentwicklung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Programmiersprache",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Werkzeug zur Fehlerbehebung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "difficulty": 3,
+            "question": "Was beschreibt das Konzept der agilen Entwicklung?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ein iterativer Ansatz zur Softwareentwicklung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Entwicklung in Wasserfallphasen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Methode zur Dokumentation von Software",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "difficulty": 2,
+            "question": "Was bedeutet API in der Anwendungsentwicklung?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Application Programming Interface",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Automated Program Integration",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Advanced Programming Instruction",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "difficulty": 3,
+            "question": "Was ist der Zweck von Unit-Tests?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Funktionalität einzelner Komponenten zu überprüfen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Gesamtleistung der Anwendung zu messen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Benutzeroberfläche zu testen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "difficulty": 2,
+            "question": "Was ist Continuous Integration (CI)?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Der regelmäßige Zusammenbau und Test der Software",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die endgültige Bereitstellung der Anwendung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Erstellung der Benutzeroberfläche",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "difficulty": 2,
+            "question": "Was ist ein Code-Review?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Überprüfung von Code durch andere Entwickler",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Dokumentation des Codes",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Testverfahren zur Fehlersuche",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "difficulty": 3,
+            "question": "Was ist ein Mock-Objekt in der Softwareentwicklung?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ein simuliertes Objekt zur Unterstützung von Tests",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein realer Bestandteil der Anwendung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Dokument zur Anforderungsanalyse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "difficulty": 3,
+            "question": "Was ist die Hauptfunktion eines Versionskontrollsystems?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Nachverfolgung von Änderungen am Code",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Bereitstellung der Anwendung für Benutzer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Erstellung von Softwaredokumentation",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "difficulty": 2,
+            "question": "Was bedeutet das MVC-Pattern in der Softwarearchitektur?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Model-View-Controller",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Multimedia-Visualisierung-Compilierung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Massive Virtual-Computing",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "difficulty": 2,
+            "question": "Was ist eine Datenbankabstraktionsschicht?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine Schicht zur Interaktion mit verschiedenen Datenbanken",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Framework zur Frontend-Entwicklung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Programmiersprache",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "difficulty": 2,
+            "question": "Was ist eine Programmiersprache?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine formale Sprache, die aus einer Reihe von Anweisungen besteht, um Computerprogramme zu erstellen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Werkzeug zur Fehlerbehebung von Software",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Algorithmus zur Datenanalyse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "difficulty": 3,
+            "question": "Was bedeutet OOP?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Object-Oriented Programming",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Optimized Operational Protocol",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Open Object Protocol",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "difficulty": 3,
+            "question": "Was bedeutet Low-Level-Programming?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine Programmierweise, die eine direkte Interaktion mit der Hardware ermöglicht",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Methode zur Benutzeroberflächenerstellung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Abstraktion für komplexe Algorithmen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "difficulty": 1,
+            "question": "Was für datentyp wird für Zahlen benutzt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "char",
+                    "isCorrect": false
+                },
+                {
+                    "text": "int",
+                    "isCorrect": true
+                },
+                {
+                    "text": "byte",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "difficulty": 2,
+            "question": "Was beschreibt die Zusammensetzung eines Strings in der Programmierung?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine Kombination aus Buchstaben und Zahlen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Abfolge von Symbolen und Zeichen, die Informationen repräsentieren",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Ansammlung von verschiedenen Datentypen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "difficulty": 2,
+            "question": "Was beschreibt die Zusammensetzung eines Strings in der Programmierung?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine Kombination aus Buchstaben und Zahlen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Abfolge von Symbolen und Zeichen, die Informationen repräsentieren",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Ansammlung von verschiedenen Datentypen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "difficulty": 2,
+            "question": "Welche der folgenden sind interpretierte Programmiersprachen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Python",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Go",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ruby",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "difficulty": 2,
+            "question": "Was für eine Art von Programmiersprache ist Python?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine hochgradig interpretierte und objektorientierte Programmiersprache",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine kompiliierte Programmiersprache",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Markup-Sprache",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "difficulty": 2,
+            "question": "Sind Java und JavaScript dasselbe?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Nein, sie sind unterschiedlich, obwohl sie ähnliche Namen haben.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ja, sie sind identisch.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie sind nur in der Syntax unterschiedlich.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "difficulty": 3,
+            "question": "Was ist der Unterschied zwischen C und C++?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "C ist eine prozedurale Sprache, während C++ objektorientiert ist.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Es gibt keinen Unterschied; sie sind dasselbe.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "C++ hat mehr konzepte, während C dies nicht hat.",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "difficulty": 2,
+            "question": "Was bedeutet \"CAD\"?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Computer-Aided Design",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Computer-Animated Development",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Controlled Application Deployment",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

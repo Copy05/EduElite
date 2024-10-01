@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="module" src="./moduleSelector.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+</head>
+<body>
+    <header class="header-center">
+        <img src="./src/EduEliteLogo.PNG" alt="EduElite" class="piclogo">
+    </header>
+    <div id="examPassingStatus">
+        <p id="eps-text">0%</p>
+    </div>
+
+    <div class="questionModuleList">
+        <a href="./questions.html" class="qm-href" id="qm-sysadmin" data-module="it-sysadmin">
+            <div class="QuestionModule qm-sysadmin">
+                <div class="modulePropeties">
+                    <p class="qm-module_name">IT-Systemadministration</p>
+                    <p class="qm-module-props">164 Questions</p>
+                </div>
+            </div>
+        </a>
+    
+        <a href="./questions.html" class="qm-href" id="qm-consulting" data-module="it-consulting">
+            <div class="QuestionModule qm-consulting">
+                <div class="modulePropeties">
+                    <p class="qm-module_name">IT-Beratung</p>
+                    <p class="qm-module-props">25 Questions</p>
+                </div>
+            </div>
+        </a>
+
+        <a href="./questions.html" class="qm-href" id="qm-programming" data-module="it-programming">
+            <div class="QuestionModule qm-programming">
+                <div class="modulePropeties">
+                    <p class="qm-module_name">IT-Anwendungsentwicklung</p>
+                    <p class="qm-module-props">20 Questions</p>
+                </div>
+            </div>
+        </a>
+
+        <a href="./questions.html" class="qm-href" id="qm-python-programming" data-module="it-python-programming">
+            <div class="QuestionModule qm-python-programming">
+                <div class="modulePropeties">
+                    <p class="qm-module_name">Python - IT-Anwendungsentwicklung</p>
+                    <p class="qm-module-props">16 Questions</p>
+                </div>
+            </div>
+        </a>
+
+        <a href="./questions.html" class="qm-href" id="qm-business-studies" data-module="it-business-studies">
+            <div class="QuestionModule qm-business-studies">
+                <div class="modulePropeties">
+                    <p class="qm-module_name">Betriebswirtschaft - IT Bezogen</p>
+                    <p class="qm-module-props">7 Questions</p>
+                </div>
+            </div>
+        </a>
+    
+        <p class="disclaimerTextHead">Optimiert für Mobile Ansicht</p>
+        <p class="disclaimerText">Dieser Service ist mehr optimiert für Mobile Geräte. Empfohlen ist es, den Service auf ein Handy zu nutzen.</p>
+    </div>
+
+    
+    <div class="bottomNavigation">
+        <div class="bnav-tab">
+            <a href="#" class="bnav-href bnav-selected">
+                <p class="bnav-tab-icon"><span class="material-symbols-outlined">home</span></p>
+                <p class="bnav-tab-text">Home</p>
+            </a>
+        </div>
+        <div class="bnav-tab">
+            <a href="./settings.html" class="bnav-href">
+                <p class="bnav-tab-icon"><span class="material-symbols-outlined">settings</span></p>
+                <p class="bnav-tab-text">Settings</p>
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>

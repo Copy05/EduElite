@@ -1,0 +1,43 @@
+@media only screen and (max-width: 500px) {
+    .questionModuleList {
+        padding: 10px;
+    }
+    
+    .questionContainer {
+        margin: 20px 15px;
+    }
+
+    .settingsContainer {
+        margin: 0px;
+    }
+
+    .submit-button, .continue-button {
+        width: 100%;
+    }
+
+    .qr-correct, .qr-wrong {
+        padding: 10px;
+    }
+
+    .bottomNavigation {
+        padding: 10px 20%;
+    }
+
+    .sc-sc-input {
+        padding: 7px 30px 7px 10px;
+    }
+
+    /* Modal */
+
+    .modal-content {
+        width: 90%;
+        max-width: 100%;
+    }
+    
+    .modal-button, .confirm-reset {
+        display: block;
+        width: 100%;
+        padding: 12px 0;
+        margin: 8px 0;
+    }
+}

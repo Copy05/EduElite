@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "difficulty": 1,
+            "question": "Was bedeutet das \"K\" im Intel Core Prozessoren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Keine integrierte Grafikeinheit",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Erhöhte Leistung durch Multithreading",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Overclocking",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "difficulty": 2,
+            "question": "Was bedeutet das \"KF\" im Intel Core Prozessoren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Overclocking und keine integrierte Grafikeinheit",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Keine integrierte Grafikeinheit",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Erhöhte Leistung durch Multithreading",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "difficulty": 2,
+            "question": "Was bedeutet das \"T\" im Intel Core Prozessoren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Prozessor mit geringerem Stromverbrauch",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Turbo Boost aktiv",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Erhöhte Leistung durch Multithreading",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "difficulty": 1,
+            "question": "Was bedeutet das \"XT\" im AMD Ryzen Prozessoren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Verbesserte Leistung durch höhere Taktraten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Prozessor mit integrierter Grafikeinheit",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Prozessor mit geringerem Stromverbrauch",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "difficulty": 2,
+            "question": "Was beschreibt das \"PRO\" im AMD Ryzen Prozessoren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Professionelle Leistung für Workstations",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Gaming-Optimierung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Maximale Energieeffizienz",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "difficulty": 2,
+            "question": "Was bedeutet das \"H\" im AMD Ryzen Prozessoren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Hochleistungs-Prozessor",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Höhere Energieeffizienz",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Integrierte Grafikeinheit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "difficulty": 1,
+            "question": "Wieso sollten sie eine SSD anstatt eine HDD verwenden?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Schnellere Ladezeiten und bessere Leistung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Höhere Speicherkapazität",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Geringere Kosten",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "difficulty": 2,
+            "question": "Welche von diesen Betriebssystemen gibt es nicht?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Windows XP SP4",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Windows 8.1",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Windows ME",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "difficulty": 2,
+            "question": "Was ist die Default Kommandozeile in Linux?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "bash",
+                    "isCorrect": true
+                },
+                {
+                    "text": "zsh",
+                    "isCorrect": false
+                },
+                {
+                    "text": "terminal",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "difficulty": 2,
+            "question": "Wie ist der Default Linux Prompt?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "<user>@<gerätename>:~$",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<user>@<gerätename>:>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<user>#:~$",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "difficulty": 2,
+            "question": "Wie viel Watt braucht man mindestens für eine moderne GPU?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "400 Watt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "200 Watt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "600 Watt",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "difficulty": 2,
+            "question": "Welche Mainboard-Plattform hat die CPU: \"AMD Ryzen 7 7800X3D\"?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "AM5",
+                    "isCorrect": true
+                },
+                {
+                    "text": "AM4",
+                    "isCorrect": false
+                },
+                {
+                    "text": "LGA 1200",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "difficulty": 2,
+            "question": "Welche der folgenden Erweiterungskarten gibt es nicht?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Soundkarte",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Grafikkarte",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Speicherkarten",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "difficulty": 1,
+            "question": "Welche Auflösung ist WQHD?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "2560 x 1440 Pixel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1920 x 1080 Pixel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "3840 x 2160 Pixel",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "difficulty": 1,
+            "question": "Was bezeichnet man unter Bloatware?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Vorinstallierte Software, die nicht benötigt wird",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Nützliche Anwendungen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Software zur Systemoptimierung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "difficulty": 2,
+            "question": "Was bedeutet SOC?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "System on Chip",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Software on Cloud",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Standard Operating Condition",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "difficulty": 2,
+            "question": "Was für ein Rechner ist ein Raspberry Pi?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ein Einplatinencomputer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Desktop-PC",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Laptop",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "difficulty": 2,
+            "question": "Was ist der Unterschied zwischen DisplayPort und HDMI?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "DisplayPort unterstützt höhere Auflösungen und Bildwiederholraten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HDMI hat immer eine bessere Audioqualität",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Beide sind identisch",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "difficulty": 1,
+            "question": "Was ist der Vorteil von mehr VRAM?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Bessere Leistung bei grafikintensiven Anwendungen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Geringerer Stromverbrauch",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schnellere Datenübertragung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "difficulty": 2,
+            "question": "Was bedeutet \"CAD\"?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Computer-Aided Design",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Computer-Animated Development",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Controlled Application Deployment",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "difficulty": 2,
+            "question": "Was wird in Hz gemessen bei Monitoren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Bildwiederholfrequenz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Monitortemperatur",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Monitortaktbasis",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "difficulty": 2,
+            "question": "Was ist der L3-Cache?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ein schneller Speicherbereich in der CPU, der Daten speichert, die wahrscheinlich bald benötigt werden.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der Speicherbereich vom Mainboard, der Daten speichert, die wahrscheinlich bald benötigt werden.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine separate Speichereinheit im RAM für priorisierte Dateien.",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "difficulty": 2,
+            "question": "Sollte man verschiedene RAM-Sticks kombinieren?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ja, wenn sie die gleiche Spezifikation haben und vom Selbe hersteller sind",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Nein, das führt zu Instabilität",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ja, kann man aber ist nicht gewöhnlich",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "difficulty": 2,
+            "question": "Worauf muss man achten beim Kaufen von Hardware-Komponenten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Kompatibilität mit bestehenden Komponenten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Farbe der Komponenten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Marke spielt keine Rolle",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "difficulty": 2,
+            "question": "Was sollte man unbedingt machen, wenn man aus Versehen Flüssigkeit auf den Rechner geschüttet hat?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Den Rechner sofort ausschalten und vom Stromnetz trennen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Weitermachen wie gewohnt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Flüssigkeit schnell mit einem Handtuch abtrocknen",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

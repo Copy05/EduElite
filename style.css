@@ -74,6 +74,20 @@ header, .header-center {
     color: white;
 }
 
+#firstVisitor {
+    font-family: "Inter";
+    background: rgb(154, 198, 212);
+    border-radius: 7px;
+    color: rgb(24, 76, 110);
+    font-size: 14px;
+    padding: 10px 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
+}
+
+.fv-link {
+    color:rgb(47, 74, 223);
+}
+
 body {
     background-color: rgb(245, 245, 255);
 }

@@ -8,6 +8,7 @@ function AssignModules() {
     if (selectedJob && modules) {
         localStorage.setItem('selectedJob', selectedJob);
         localStorage.setItem('assignedModules', modules);
+        localStorage.setItem('site_lang', 'de');
     }
 }
 

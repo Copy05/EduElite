@@ -16,7 +16,9 @@ LoadTotalQuestions().then(total => {
     let ts = Number(localStorage.getItem("totalScore"));
 
     // The Percentage is merly a status that identicates if you're going to pass the exam with your knowledges
-    const percentage = Math.min(((ts / 6) / TotalQuestions) * 100, 100);
+    const percentage = TotalQuestions > 0 
+        ? Math.min(((ts / 6) / TotalQuestions) * 100, 100) 
+        : 0;
 
     document.getElementById("eps-text").innerText = `${percentage.toFixed(0)}% (Score: ${ts})`;
 
@@ -32,18 +34,25 @@ LoadTotalQuestions().then(total => {
     }
 
     // Show only the relevant modules based on the saved assignedModules
+    const allModules = document.querySelectorAll('[data-module]');
     const savedModules = localStorage.getItem("assignedModules");
     if (savedModules) {
+        document.getElementById("firstVisitor").style.display = "none"
         const moduleArray = savedModules.split(',').map(module => module.trim());
 
         // Hide all module elements first
-        const allModules = document.querySelectorAll('[data-module]');
         allModules.forEach(module => {
             if (!moduleArray.includes(module.getAttribute('data-module'))) {
                 module.style.display = 'none';
             } else {
                 module.style.display = 'block';
             }
+        });
+    } else {
+        document.getElementById("firstVisitor").style.display = "block"
+
+        allModules.forEach(module => {
+            module.style.display = 'none';
         });
     }
 });

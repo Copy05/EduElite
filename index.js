@@ -44,7 +44,6 @@ const loadQuestion = () => {
 
             questionElement.innerText = randomQuestion.question;
 
-            // Handle image display logic
             const questionImage = document.getElementById("questionImage");
             if (randomQuestion.img && randomQuestion.img !== "default") {
                 questionImage.src = randomQuestion.img; // Set the image source

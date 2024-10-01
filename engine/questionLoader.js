@@ -52,7 +52,7 @@ export function LoadTotalQuestions() {
     return Promise.all(fetchPromises)
         .then(questionCounts => {
             const totalQuestions = questionCounts.reduce((acc, count) => acc + count, 0);
-            return totalQuestions; // Return the total count
+            return totalQuestions;
         })
         .catch(error => {
             console.error('There has been a problem with your fetch operation:', error);

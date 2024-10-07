@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "difficulty": 2,
+            "question": "Welche Rechtsform darf Aktien verkaufen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Aktiengesellschaft (AG)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Gesellschaft mit beschränkter Haftung (GmbH)",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Offene Handelsgesellschaft (OHG)",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

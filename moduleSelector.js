@@ -4,6 +4,8 @@ const moduleLinks = document.querySelectorAll('.qm-href');
 
 let TotalQuestions;
 
+const REPEAT_LEARNING = 6;
+
 // Load total questions and then execute the logic dependent on it
 LoadTotalQuestions().then(total => {
     TotalQuestions = total;
@@ -17,7 +19,7 @@ LoadTotalQuestions().then(total => {
 
     // The Percentage is merly a status that identicates if you're going to pass the exam with your knowledges
     const percentage = TotalQuestions > 0 
-        ? Math.min(((ts / 6) / TotalQuestions) * 100, 100) 
+        ? Math.min(((ts / REPEAT_LEARNING) / TotalQuestions) * 100, 100) 
         : 0;
 
     document.getElementById("eps-text").innerText = `${percentage.toFixed(0)}% (Score: ${ts})`;

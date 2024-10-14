@@ -3299,6 +3299,206 @@
                     "isCorrect": false
                 }
             ]
+        },
+        {
+            "id": 165,
+            "difficulty": 2,
+            "question": "Was versteht man unter ergonomischem Sitzen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine aufrechte Sitzhaltung mit angepasster Stuhlhöhe und Rückenlehne",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das Sitzen auf einer harten Oberfläche ohne Unterstützung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Sitzen in einer bequemen Position ohne feste Vorgaben",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 166,
+            "difficulty": 1,
+            "question": "Warum ist die Bildschirmhöhe am Arbeitsplatz wichtig?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Um Nackenschmerzen zu vermeiden",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Um die Bildschirmhelligkeit zu optimieren",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um die Raumbeleuchtung anzupassen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 167,
+            "difficulty": 3,
+            "question": "Welche Armhaltung wird bei der Arbeit am Schreibtisch als ergonomisch empfohlen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Arme sollten einen 90°-Winkel bilden und locker auf dem Tisch aufliegen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Arme sollten gestreckt auf der Tischplatte ruhen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Arme sollten im 45°-Winkel zum Körper stehen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 168,
+            "difficulty": 2,
+            "question": "Wie beeinflusst die Beleuchtung die Ergonomie am Arbeitsplatz?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Schlechte Beleuchtung kann die Augenbelastung erhöhen und die Produktivität verringern",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Beleuchtung hat keinen Einfluss auf die Ergonomie",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Helle Beleuchtung reduziert die körperliche Belastung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 169,
+            "difficulty": 1,
+            "question": "Warum ist es wichtig, bei der Arbeit regelmäßig Pausen einzulegen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Um Ermüdung zu vermeiden und die Konzentration zu verbessern",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Weil längere Pausen die Produktivität fördern",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Weil Pausen die Arbeitszeit verlängern",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 170,
+            "difficulty": 3,
+            "question": "Welche Körperhaltung gilt als ergonomisch beim Heben schwerer Lasten?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Mit geradem Rücken aus den Beinen herausheben",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mit rundem Rücken aus dem Oberkörper herausheben",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Gewicht auf eine Seite des Körpers verlagern",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 171,
+            "difficulty": 2,
+            "question": "Welches Zubehör kann zur Verbesserung der Ergonomie am Arbeitsplatz beitragen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Eine ergonomische Maus und Tastatur",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine größere Computertastatur",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein schnellerer Prozessor",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 172,
+            "difficulty": 1,
+            "question": "Wie sollte ein Bürostuhl eingestellt sein, um die Ergonomie zu verbessern?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Die Höhe sollte so eingestellt sein, dass die Füße flach auf dem Boden stehen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Rückenlehne sollte in maximaler Neigung arretiert werden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Armlehnen sollten auf Schulterhöhe eingestellt sein",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 173,
+            "difficulty": 2,
+            "question": "Welche Art von Schreibtisch wird aus ergonomischer Sicht empfohlen?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Ein höhenverstellbarer Schreibtisch, um abwechselnd im Sitzen und Stehen arbeiten zu können",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein fester Schreibtisch mit großer Arbeitsfläche",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein niedriger Schreibtisch für eine entspannte Arbeitshaltung",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 174,
+            "difficulty": 3,
+            "question": "Welche Auswirkungen kann eine schlechte ergonomische Haltung langfristig haben?",
+            "img": "default",
+            "answers": [
+                {
+                    "text": "Chronische Rücken- und Nackenschmerzen sowie Sehstörungen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Verbesserte Flexibilität und Kondition",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Geringere Muskelbeanspruchung und weniger Ermüdung",
+                    "isCorrect": false
+                }
+            ]
         }
     ]
 }

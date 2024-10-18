@@ -419,6 +419,26 @@
                     "isCorrect": false
                 }
             ]
+        },
+        {
+            "id": 21,
+            "difficulty": 2,
+            "question": "Was macht eine For-Loop-Schleife",
+            "img": "./src/it-programming/it-prog-1.png",
+            "answers": [
+                {
+                    "text": "Sie wiederholt einen Codeblock eine bestimmte Anzahl von Malen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sie führt einen Codeblock so oft das i in die 10 passt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie fürz einen Codeblock nur wenn i = 10 ist.",
+                    "isCorrect": false
+                }
+            ]
         }
     ]
 }
